@@ -1,1 +1,4 @@
-h1 {color: palevioletred;}
+h1 {
+    color: palevioletred;
+    font-family: Arial;
+}
